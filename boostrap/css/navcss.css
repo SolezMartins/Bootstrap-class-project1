@@ -1,0 +1,15 @@
+.footerheading,.footerParagraph{
+    color: white;
+}
+ .footerHr{
+     border: 1px solid white;
+ }
+ buttons{
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .footerheading{
+     text-align: center;
+ }
